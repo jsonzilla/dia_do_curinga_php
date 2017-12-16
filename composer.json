@@ -1,0 +1,25 @@
+{
+  "name": "0unit/diadocuringphp",
+  "description": "",
+  "authors": [
+      {
+          "name": "Jeison Cardoso",
+          "email": "cardoso.jeison@gmail.com"
+      }
+  ],
+  "require-dev": {
+    "phpunit/phpunit" : "4.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "ddc\\" : [
+        "src/ddc/",
+        "tests/ddc/"
+      ],
+      "rss\\" : [
+        "src/rss/",
+        "tests/rss/"
+      ]
+    }    
+  }
+}
