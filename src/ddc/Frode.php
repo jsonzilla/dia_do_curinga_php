@@ -2,7 +2,7 @@
 
 namespace ddc;
 
-require 'ddc/Date.php';
+require_once __DIR__ . "/Date.php";
 
 class Frode {
   function cardMonth($day) {

@@ -2,7 +2,7 @@
 
 namespace ddc;
 
-require "./vendor/autoload.php";
+require_once __DIR__ . "../../../src/ddc/Frode.php";
 
 use PHPUnit_Framework_TestCase as PHPUnit;
 

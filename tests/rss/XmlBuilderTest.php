@@ -2,8 +2,6 @@
 
 namespace rss;
 
-require "./vendor/autoload.php";
-
 use PHPUnit_Framework_TestCase as PHPUnit;
 
 class XmlBuilderTest extends PHPUnit {

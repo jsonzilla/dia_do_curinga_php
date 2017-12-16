@@ -2,7 +2,7 @@
 
 namespace ddc;
 
-require "./vendor/autoload.php";
+require_once "./vendor/autoload.php";
 
 use PHPUnit_Framework_TestCase as PHPUnit;
 

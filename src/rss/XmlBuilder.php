@@ -2,7 +2,8 @@
 
 namespace rss;
 
-require 'ddc/Frode.php';
+require_once __DIR__ . "/../ddc/Frode.php";
+
 use ddc\Frode;
 
 class XmlBuilder {  
