@@ -1,4 +1,5 @@
 # DiaDoCuringaPHP
+[![Build Status](https://travis-ci.org/0unit/DiaDoCuringaPHP.svg?branch=master)](https://travis-ci.org/0unit/DiaDoCuringaPHP)
 
 A Gregorian calendar converter to an annual calendar with 364 days, each representing a playing card. Divided into 52 weeks and 13 months, all with 28 days. Day 365 is an extra day, the day of the wildcard. Every four years to two extra days the double day of the wildcard.
 
