@@ -1,5 +1,5 @@
 # DiaDoCuringaPHP
-[![Build Status](https://travis-ci.org/0um/DiaDoCuringaPHP.svg?branch=master)](https://travis-ci.org/0um/DiaDoCuringaPHP) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/989552569e374f8f94d1581b3734d1ba)](https://www.codacy.com/app/0um/DiaDoCuringaPHP?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=0um/DiaDoCuringaPHP&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/amorvincitomnia/DiaDoCuringaPHP.svg?branch=master)](https://travis-ci.org/amorvincitomnia/DiaDoCuringaPHP) [![Codacy Badge]
 
 A Gregorian calendar converter to an annual calendar with 364 days, each representing a playing card. Divided into 52 weeks and 13 months, all with 28 days. Day 365 is an extra day, the day of the wildcard. Every four years to two extra days the double day of the wildcard.
 
